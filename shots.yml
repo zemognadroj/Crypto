@@ -1,4 +1,4 @@
-- url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQWB7PY60UcK29eDWDOqpKmI4fqJp34rIVrsfRvtnsoNJMdVTDgSzYjeqsiRO57oUbExoTPD-U-A8rN/pubhtml?gid=1600914238&single=true
+- url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRtXXUGWyxXcyh01xgdGyHFd6xxXTfow0YulhH1YackVC73N1cNSU2tRxLNNlC_qFpTVX6cFLV_rI4Z/pubhtml
   selector: 'div#sheets-viewport'
   output: shot.png
   width: 600
